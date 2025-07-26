@@ -4,7 +4,6 @@ The analysis focuses on predicting crop yield based on weather conditions, soil 
  The dataset includes multiple crops across different states and seasons, considering factors such as area cultivated, production volume, annual rainfall, fertilizer use, and pesticide application. 
 Machine learning models will be employed to predict crop yield, helping optimize resource allocation and improve decision-making for sustainable farming. 
 The findings aim to enhance agricultural planning, and precision farming techniques.
-<img width="3498" height="304" alt="image" src="https://github.com/user-attachments/assets/2ec41f0f-f9dd-40c4-9ed5-a68a8cbf80c9" />
 
 <img width="1304" height="980" alt="image" src="https://github.com/user-attachments/assets/65614ddc-b701-4410-b70a-4e2ad5f1cb1b" />
 DATA PREPROCESSING
