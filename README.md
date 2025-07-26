@@ -8,6 +8,8 @@ The findings aim to enhance agricultural planning, and precision farming techniq
 
 <img width="1304" height="980" alt="image" src="https://github.com/user-attachments/assets/65614ddc-b701-4410-b70a-4e2ad5f1cb1b" />
 DATA PREPROCESSING
+<span style="color:red">This text will be red</span>
+
 Handle Missing Data – Fill missing values using average (mean/median) or advanced techniques.
 Select Important Features – Keep only the most useful data that affects crop yield.
 Normalize Data – Scale numbers (e.g., rainfall, fertilizer) so they are in a similar range.
