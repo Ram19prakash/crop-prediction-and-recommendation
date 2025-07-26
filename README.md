@@ -16,4 +16,4 @@ Normalize Data – Scale numbers (e.g., rainfall, fertilizer) so they are in a s
 Convert Text to Numbers – Change crop names, seasons, and states into numerical values.
 Balance the Data – Ensure fair distribution of all crops to avoid bias.
 Split Data for Training & Testing – Use 70-80% of data for training and 20-30% for testing.
-Reduce Complexity (if needed) – Simplify data using special techniques to make the model faster<img width="1512" height="550" alt="image" src="https://github.com/user-attachments/assets/c88f033e-8241-4afa-9703-63a8e86a4836" />
+Reduce Complexity (if needed) – Simplify data using special techniques to make the model faster
